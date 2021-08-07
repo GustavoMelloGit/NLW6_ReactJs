@@ -1,9 +1,8 @@
+import { Button } from './components/Button'
+
 function App() {
   return (
-    <>
-    <header>Testando</header>
-    <h1>Hello World</h1>
-    </>
+    <Button text="clique aqui"/>
   );
 }
 export default App;
